@@ -1,10 +1,12 @@
 body{
+    background-color: #FFBB7F;
     margin:0;
 }
 
 
 
 .headergif {
+    
     float: left;
 
     width:10%;
@@ -12,14 +14,41 @@ body{
 
     margin-left: 1%;
 }
-header{
+.upper-bar{
     background-color: #7C4F27;
     border-bottom: 7px solid #7C2D00;
-
+    padding: 1.5%;
 
 }
-p1{
+
+p1 {
     Font-size:50px;
     font-family: "Cooper Black";
-    color:orangered;
+    color:#FF7504;
+}
+
+.lower-bar{
+    border-bottom: 5px solid #FF7504;
+    background-color: #FFBB7F;
+    padding-bottom: 0.7%;
+    padding-top: 0.5%;
+    font-family: "Cooper Black";
+    font-size: 30px;
+    color:#FF7504;
+}
+
+
+
+.lower-bar .options {
+    margin-left: 2%;
+    border: none;
+    background: none;
+    font-size: 20px;
+    font-family: "Cooper Black";
+    font-size: 30px;
+    color:#FF7504;
+}
+
+.page-options {
+    margin-left: 10%;
 }
