@@ -1,13 +1,25 @@
+body{
+    margin:0;
+}
+
+
+
 .headergif {
     float: left;
-    float: top;
+
     width:10%;
     height:10%;
-    margin-top: 1%;
+
     margin-left: 1%;
 }
 header{
-    background-color: #FFBB7F;
-    border: 1px solid #FFBB7F;
+    background-color: #7C4F27;
+    border-bottom: 7px solid #7C2D00;
 
+
+}
+p1{
+    Font-size:50px;
+    font-family: "Cooper Black";
+    color:orangered;
 }
